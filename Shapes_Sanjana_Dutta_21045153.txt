@@ -1,0 +1,15 @@
+Shape: Square
+Area: 15992.0
+Perimeter: 504.48528122901917
+Centroid: (89, 432)
+
+Shape: Triangle
+Area: 23905.0
+Perimeter: 771.8721451759338
+Centroid: (457, 474)
+
+Shape: Hexagon
+Area: 47434.0
+Perimeter: 856.3818116188049
+Centroid: (145, 151)
+
